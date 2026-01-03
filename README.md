@@ -62,4 +62,4 @@ How ML models can be integrated with a frontend interface
 This project significantly strengthened my understanding of applied machine learning and gave me confidence to work on more complex ML problems.
 
 
-I would like to sincerely thank Codebasics for their excellent machine learning content and guidance. Their tutorials helped me understand how real-world ML projects are structured, implemented, and deployed, and played a major role in building this proje
+I would like to sincerely thank Codebasics for their excellent machine learning content and guidance. Their tutorials helped me understand how real-world ML projects are structured, implemented, and deployed, and played a major role in building this project.
